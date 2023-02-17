@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test Table">6c1e90029741211090d1bf36f053af48</application>
+        <filter/>
+        <name>Test Tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_979172_sample.test_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 12:27:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6c1e90029741211090d1bf36f053af4b</sys_id>
+        <sys_name>Test Tables</sys_name>
+        <sys_package display_value="Sample" source="x_979172_sample">272cd8029701211090d1bf36f053af04</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">272cd8029701211090d1bf36f053af04</sys_scope>
+        <sys_update_name>sys_ui_module_6c1e90029741211090d1bf36f053af4b</sys_update_name>
+        <table>x_979172_sample_test_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

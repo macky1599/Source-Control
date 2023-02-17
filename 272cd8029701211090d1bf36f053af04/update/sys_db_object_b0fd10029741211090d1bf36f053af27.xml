@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Test Table</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_979172_sample_test_table</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 12:27:23</sys_created_on>
+        <sys_id>b0fd10029741211090d1bf36f053af27</sys_id>
+        <sys_name>Test Table</sys_name>
+        <sys_package display_value="Sample" source="x_979172_sample">272cd8029701211090d1bf36f053af04</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">272cd8029701211090d1bf36f053af04</sys_scope>
+        <sys_update_name>sys_db_object_b0fd10029741211090d1bf36f053af27</sys_update_name>
+        <u_chore_priority/>
+        <u_complete/>
+        <u_created/>
+        <u_description/>
+        <u_title/>
+        <u_updated/>
+        <update_access>false</update_access>
+        <user_role display_value="x_979172_sample.test_table_user" name="x_979172_sample.test_table_user">601e10029741211090d1bf36f053af2d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
