@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test Table">241e90029741211090d1bf36f053af35</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Test Tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_979172_sample_test_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_979172_sample.test_table_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 12:27:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2c1e90029741211090d1bf36f053af38</sys_id>
+        <sys_name>Test Tables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sample" source="x_979172_sample">272cd8029701211090d1bf36f053af04</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sample">272cd8029701211090d1bf36f053af04</sys_scope>
+        <sys_update_name>sys_app_module_2c1e90029741211090d1bf36f053af38</sys_update_name>
+        <timeline_page/>
+        <title>Test Tables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
